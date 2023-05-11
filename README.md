@@ -1,3 +1,5 @@
 # nestjs-dynamic-mod-di-issue
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nestjs-typescript-starter-2hq3as)
+## How to replicate
+
+Execute command `npm run start:dev`
